@@ -5,7 +5,7 @@ This is a list of remote companies and job boards to apply to if you are looking
 
 # REMOTE JOB BOARD
 
-[remote job board basedremote.com](http://basedremote.com)
+[remote job board basedremote.com](https://basedremote.com)
 
 # COMPANIES OFFERING REMOTE JOBS
 

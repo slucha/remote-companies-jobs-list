@@ -3,7 +3,7 @@ This is a list of remote companies and job boards to apply to if you are looking
 
 REMOTE JOB BOARD
 
-http://basedremote.com
+[link]http://basedremote.com
 
 COMPANIES OFFERING REMOTE JOBS
 

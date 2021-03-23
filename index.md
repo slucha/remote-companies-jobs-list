@@ -3,11 +3,11 @@
 # remote-companies-jobs-list
 This is a list of remote companies and job boards to apply to if you are looking for a remote job as an engineer, marketer, designer or in sales etc.
 
-#REMOTE JOB BOARD
+# REMOTE JOB BOARD
 
-http://basedremote.com
+[remote job board basedremote.com](http://basedremote.com)
 
-#COMPANIES OFFERING REMOTE JOBS
+# COMPANIES OFFERING REMOTE JOBS
 
 Crossover	Development	https://www.crossover.com/
 

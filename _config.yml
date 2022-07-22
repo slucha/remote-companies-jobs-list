@@ -1,2 +1,10 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
 
+
+title: Companies offering remote jobs.
+tagline: Find the best companies and jobs to work remotely  
+description: Find great jobs working for companies remotely. Find the best opportunites and comapnies with a great remote culture
+author:
+  twitter: jrmarciniak
